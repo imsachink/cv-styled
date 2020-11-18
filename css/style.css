@@ -7,8 +7,9 @@ body{
 .fcontainer{
     position: relative;
     text-align: center;
-    bottom: 20px;
+    bottom: 1.5rem;
     background-color:#e8ffff;
+    margin-bottom: 1rem;
 }
 .name{
     font-family: 'Sacramento', cursive;
@@ -72,14 +73,14 @@ a:hover{
 
 .firstcloud{
     position: relative;
-    bottom:20px;
-    left:220px;
-    top: 30px;
+    bottom:1.1rem;
+    left:14rem;
+    top: 2rem;
 }
 .secondcloud{
     position:absolute;
-    bottom:300px;
-    right:900px;
+    bottom:19rem;
+    right:57rem;
    
 }
 .pro{
